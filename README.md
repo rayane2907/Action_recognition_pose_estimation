@@ -9,7 +9,6 @@ This project focuses on recognizing human actions using pose estimation techniqu
 - [Usage](#usage)
 - [Examples](#examples)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 Pose estimation is a computer vision technique that detects human joints and maps them to a human skeleton model. This project leverages pose estimation to recognize and classify human actions. It is useful in various applications, such as sports analytics, human-computer interaction, and video surveillance.
