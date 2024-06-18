@@ -1,6 +1,7 @@
 # Action Recognition from Pose Estimation
 
 This project focuses on recognizing human actions using pose estimation techniques. The goal is to analyze human poses from video or image inputs and classify the actions being performed.
+The Whole code attached in the section of "Joint_2D_and3D_Pose_Estimation_and_Action_Recognition.ipynb"
 
 ## Table of Contents
 - [Introduction](#introduction)
